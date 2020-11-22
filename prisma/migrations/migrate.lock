@@ -1,0 +1,6 @@
+# Prisma Migrate lockfile v1
+
+20201031143905-init
+20201031195104-add-todo-model
+20201101233111-user-todo-relation
+20201115221355-password-unique-email
